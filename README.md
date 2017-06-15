@@ -1,3 +1,2 @@
 # Fuzzing
-#some fuzzing payloads
-include xss fuzzing payloads
+collect some xss fuzzing payloads from internet
